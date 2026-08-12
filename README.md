@@ -169,9 +169,9 @@ task3_visualization.ipynb
 
 **Ujjwal Karthik**
 
-GitHub: *(Add your GitHub profile link here)*
+GitHub: *(https://github.com/karthikujjwal2616/apexplanet-task3-visualization/blob/main/README.md)*
 
-LinkedIn: *(Add your LinkedIn profile link here)*
+LinkedIn: *(www.linkedin.com/in/t-karthik-ujjwal-88110b41b)*
 
 ---
 
